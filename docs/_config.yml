@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Soline Morel - Doula
-email: solinemoreldoula@gmail.com
+title: Coeur de Licorne
+email: coeurdelicorne.band@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Soline Morel, Doula en Loire-Atlantique, Maine-et-Loire, Vendée.
+   Coeur de Licorne - Rock pour enfants rebelles
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://solinemorel-doula.fr" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://coeur-de-licorne.fr" # the base hostname & protocol for your site, e.g. http://example.com
 #domain: solinemorel-doula.fr
 #twitter_username: jekyllrb
 #github_username:  jekyll

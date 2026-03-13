@@ -5,11 +5,12 @@
 */
 
 /* Colors */
-$majorelle: #081697;
-$light-blue: #b7d8ff;
+$majorelle: #b93741;
+$red: #af0019;
+$light-blue: #b93741;
 $tiagipants: #4e9aec;
-$sarwell: #1b3e7e;
-$sarwell-light: #1f5595;
+$sarwell: black; //#401317;
+$sarwell-light: #af0019;
 $sarwell-red: #7e1b3e;
 $grayounet: #39393940;
 $stroke-color: $grayounet;
@@ -17,14 +18,33 @@ $transparent: rgba(255, 0, 0, 0);
 $focus-color: $sarwell;
 
 $link-color: $sarwell;
-$link-color-hover: $sarwell-red;
+$link-color-hover: black;
 $link-color-visited: $sarwell;
-$primary-color: $light-blue;
-$navbar-background: linear-gradient(90deg, $sarwell-light, 30%, $sarwell);
+$primary-color: black;
+$navbar-background: linear-gradient(90deg, $red, 30%, $red);
 $masthead-link-color: white;
-$masthead-link-color-hover: $light-blue;
+$masthead-link-color-hover: black;
 $masthead-link-color-visited: $masthead-link-color;
 
+.home-bg {
+  background-color: black; 
+  background-image: url('/assets/images/mains/home2.jpg');
+  height:100vh;
+
+}
+
+@media (min-width:768px) {
+  .home-bg {
+    background-position: 50% 0% !important;
+    background-size: contain !important;
+  }
+}
+@media (max-width: 768px) {
+  .home-bg {
+    background-position: 20% 0% !important;
+    background-size: contain !important;
+  }
+}
 .stroke {
   color: white;
   text-shadow: -2px -2px 0 $stroke-color, 0 -2px 0 $stroke-color,
@@ -48,7 +68,7 @@ $global-font-family: $header-font-family;
 $caption-font-family: $global-font-family;
 $menu-font-family: $header-font-family;
 .page__footer {
-  background-image: $navbar-background;
+  background-image: linear-gradient(90deg, $red, 30%, $red);
   footer {
     img {
       max-height: 90px;
@@ -67,6 +87,7 @@ $menu-font-family: $header-font-family;
 $max-width: 1300px;
 body {
   overflow-x: hidden;
+ // background-color: // #260006;
 }
 $right-sidebar-width-narrow: 0px;
 $right-sidebar-width: 0px;
@@ -401,7 +422,7 @@ html {
 .container .table-price .description .price {
   width: 100%;
   text-align: center;
-  color: $light-blue;
+  color: white;
   top: 50%;
   display: block;
   position: absolute;

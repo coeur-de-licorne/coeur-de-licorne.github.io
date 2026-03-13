@@ -1,11 +1,9 @@
 main:
-  - title: "Mon histoire"
-    url: /soline-morel-doula
-  - title: "Pourquoi une doula ?"
-    url: /doula
-  - title: "Accompagnements"
-    url: /accompagnements
-  - title: "Cuisine"
-    url: /cuisine
-  - title: "Contact"
-    url: /contact
+  - title: "Le groupe"
+    url: /band
+  - title: "Prochaines dates"
+    url: /dates
+  - title: "Vidéos"
+    url: /videos
+  - title: "Formules"
+    url: /formules

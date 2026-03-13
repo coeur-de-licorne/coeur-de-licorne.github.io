@@ -4,23 +4,23 @@ permalink: /
 hidden: true  
 ---
 <div style="margin-left:-30vw;width:130vw;">
-  <div class="page__hero--overlay" 
-      style="background-color: #5e616c; background-image: url('/assets/images/mains/home.jpg');background-position: 0% 30%;height:100vh">
+  <div class="page__hero--overlay home-bg" 
+      style="">
      
   </div>
 
-   <div style="position:absolute;top:70vh;right:5vw;padding:10px;border-radius:15px">
+   <div style="position:absolute;top:70vh;right:5vw;padding:10px;border-radius:15px;text-align:right">
         <h1 style="font-size: max(5.5vh, 4vw);" class="stroke">      
-            Soline Morel
+           <img style="height:15vh" src="/assets/band-name.png">
         </h1>
           <p style="font-size: max(4vh, 3vw)" class="stroke">
-            Doula, Nantes
+            Groupe de rock pour enfants rebelles
           </p>
       </div>
   
 </div>
 
 <blockquote class="quote home">
-L’amour maternel est un lien puissant qui unit les femmes du monde entier et leur donne des forces invincibles pour préserver la vie qu’elles donnent.
-  <span>Anonyme - musée des femmes du Vietnam (Hanoï)</span>
+Le meilleur groupe de rock pour enfants de tous les temps
+  <span>Aldebert (enfin c'est peut-être ce qu'il dirait s'il avait entendu parlé de nous)</span>
 </blockquote>
