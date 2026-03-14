@@ -7,3 +7,5 @@ main:
     url: /videos
   - title: "Formules"
     url: /formules
+  - title: "Contact"
+    url: /contact

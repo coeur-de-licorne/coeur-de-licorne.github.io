@@ -10,65 +10,81 @@ Alors nous on adore faire des vidéos. Nos clips sont 100% autoproduit avec le s
 
 <div class="image-texte">
     <div class="image">
-        <img src="/assets/images/press/CoeurDeLicorne1.jpg"/>
+        <img src="/assets/images/songs/policesquared.png"/>
     </div>
     <div class="texte">
-    <div>
-    <p>
-        La Police des Parents
-    </p>
-    </div>
+        <p>
+            <b>La Police des Parents</b><br/>
+            <a href="https://www.youtube.com/playlist?list=PLNfx6uZ_oKURbyCP83GHVZMe27JpPBzzD">Voir le clip</a>
+        </p>
     </div>
 </div>
 
 
 <div class="image-texte odd">
     <div class="image">
-        <img src="/assets/images/press/CoeurDeLicorne2.jpg"/>
+        <img src="/assets/images/songs/raggasquared.png"/>
     </div>
-    <div class="texte"> <div>
+    <div class="texte"> 
     <p>
-       Le raga du perisco </p></div>
+      <b>Le Raga du Perisco</b><br/>
+        <a href="https://www.youtube.com/playlist?list=PLNfx6uZ_oKURbyCP83GHVZMe27JpPBzzD">Voir le clip</a>
+        </p>
+    </div>
     </div>
     
-</div>
 
 <div class="image-texte">
     <div class="image">
-        <img src="/assets/images/press/CoeurDeLicorne3.jpg"/>
-    </div>
-    <div class="texte"><div>
+        <img src="/assets/images/songs/guepes-min.png"/>
+        </div>
+    <div class="texte">
     <p>
-      Maman contre les guêpes</p></div>
+      <b>Maman contre les Guêpes</b><br/>
+        <a href="https://www.youtube.com/playlist?list=PLNfx6uZ_oKURbyCP83GHVZMe27JpPBzzD">Voir le clip</a>
+        </p>
     </div>
-    
 </div>
 
 <div class="image-texte odd">
     <div class="image">
-        <img src="/assets/images/press/CoeurDeLicorne4.jpg"/>
+        <img src="/assets/images/songs/chats-squared.png"/>
     </div>
-    <div class="texte"> <div>
+    <div class="texte">
     <p>
-    J'te parle des chats      
+      <b>J'te parle des chats</b><br/>
+        <a href="https://www.youtube.com/playlist?list=PLNfx6uZ_oKURbyCP83GHVZMe27JpPBzzD">Voir le clip</a>
+        </p>
+    </div>
+</div>
+
+
+<div class="image-texte">
+    <div class="image">
+        <img src="/assets/images/songs/serre.png"/>
+    </div>
+    <div class="texte"> 
+    <p>
+      <b>Serre-moi très fort</b><br/>
+        <a href="https://www.youtube.com/playlist?list=PLNfx6uZ_oKURbyCP83GHVZMe27JpPBzzD">Voir le clip</a>
+        </p>
+    </div>
+</div>
+
+<div class="image-texte odd">
+    <div class="image">
+        <img src="/assets/images/songs/story-squared.png"/>
+    </div>
+   <div class="texte"> 
+    <p>
+      <b>Strory of my life</b><br/>
+        <a href="https://www.youtube.com/playlist?list=PLNfx6uZ_oKURbyCP83GHVZMe27JpPBzzD">Voir le clip</a>
+        </p>
+    </div>
+</div>
+
+
+<h2>Autres vidéos</h2>
+<p>
+Tu trouveras sur notre chaîne youtube tout un tas d'autres vidéos (impros à la guitare, reprises, court-métrage...).
 </p>
- </div>
-    </div>
-</div>
-
-
-<div class="image-texte">
-    <div class="image">
-        <img src="/assets/images/press/CoeurDeLicorne5.jpg"/>
-    </div>
-    <div class="texte"><div>
-    <p>
-         Serre-moi très fort</p></div>
-    </div>
-</div>
-
-## Autres vidéos
-
-<div style="display:flex;justify-content:center">
-<img src="/assets/images/me/emancipation.svg" style="width:50vw;height:auto;max-width:220px;"/>
-</div>

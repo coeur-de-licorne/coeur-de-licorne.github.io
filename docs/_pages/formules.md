@@ -13,22 +13,6 @@ Communiqué à destinations des parents : Cœur de Licorne est un groupe de rock
 Durée : 1 heure
 Public : De 5 à 77 ans
 
-## Info pratiques
-
-
-**Matériel**: je peux m'installer sur scène ou à côté pour simplifier l'installation. Si besoin je peux être complètement indépendant (j'ai ma propre sono HK Polar 8, micro et ampli). J'ai juste besoin d'un espace 3 x 2m au sol pour installer mon matériel, j'ai un tapis. Il me faut juste de quoi me brancher + de quoi m'abriter de la pluie si jamais le temps n'est pas idéal.
-
-**Installation**: prévoir deux heures balances comprise
-
-**Infos GUSO**
-LAGARDE ALEX (MOREL)
-20/06/1988 à Evreux
-Numéro Guso : 5179667230
-RIB : IBAN FR7614706001057394604798581 (BIC : AGRIFRPP847)
-
-**Infos Sacem**
-Toutes les chansons sont des compositions personnelles non déclarées à la Sacem mais ayant fait l'objet d'une demande SDRM pour pressage de notre album. 
-Excepté une reprise : Franz Ferdinand - Take me out
 
 ## Formules
 
@@ -70,4 +54,22 @@ Excepté une reprise : Franz Ferdinand - Take me out
 
 Je pratique un tarif solidaire (gratuit pour ceux qui n'ont pas les moyens et partagent mes valeurs).
 
-N'hésitez pas à me contacter, je suis prêt à jouer gratuitement sans souci sous conditions et à imaginer toute forme de fête (boom, DJ Set, barbes à papa...).
+N'hésitez pas à me contacter, je suis prêt à jouer gratuitement sans souci sous conditions et à imaginer toute forme de fête (boom, DJ Set, barbes à papa...). J'ai plusieurs contact avec des groupes "pour les grands" pour proposer une soirée avec concert enfant puis concert adulte festif.
+
+
+## Info pratiques
+
+
+**Matériel**: je peux m'installer en intérieur ou extérieur, sur scène ou au sol. Si besoin je peux être complètement indépendant (j'ai ma propre sono HK Polar 8, micro, ampli et ralonges 40m). J'ai juste besoin d'un espace 3 x 2m au sol pour installer mon matériel. Il me faut juste une entrée électrique et de quoi m'abriter de la pluie si jamais le temps n'est pas idéal.
+
+**Installation**: prévoir deux heures balances comprise
+
+**Infos GUSO**
+LAGARDE ALEX (MOREL)
+20/06/1988 à Evreux
+Numéro Guso : 5179667230
+RIB : IBAN FR7614706001057394604798581 (BIC : AGRIFRPP847)
+
+**Infos Sacem**
+Toutes les chansons sont des compositions personnelles non déclarées à la Sacem mais ayant fait l'objet d'une demande SDRM pour pressage de notre album. 
+Excepté une reprise : Franz Ferdinand - Take me out
