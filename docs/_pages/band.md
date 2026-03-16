@@ -36,7 +36,7 @@ title: "Le groupe"
 
 <div class="image-texte">
     <div class="image">
-        <img src="/assets/images/press/CoeurDeLicorne3.jpg"/>
+        <img src="/assets/images/mains/live1.jpeg"/>
     </div>
     <div class="texte"><div>
     <p>
@@ -49,7 +49,7 @@ title: "Le groupe"
 
 <div class="image-texte odd">
     <div class="image">
-        <img src="/assets/images/press/CoeurDeLicorne4.jpg"/>
+        <img src="/assets/images/mains/live2.jpeg"/>
     </div>
     <div class="texte">
       <div>

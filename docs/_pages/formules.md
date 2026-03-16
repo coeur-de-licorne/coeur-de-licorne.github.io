@@ -31,11 +31,11 @@ Public : De 5 à 77 ans
   <div class="table-price">
     <a href="mailto:coeur.de.licorne.band@gmail.com">
     <div class="pic-item">
-      <img src="/assets/images/formules/2.jpg"/>
+      <img src="/assets/images/mains/live3.jpg"/>
     </div>
     <div class="description">
-     <h1 class="title">Concert + DJ Set</h1>
-      <span class="price">100€ (négociable) <br/>+ 30€/heure</span>
+     <h1 class="title">Concert <br/>+ Sono pour Boum</h1>
+    <span class="price"><br/>100€ + 30€/heure (négociable)</span>
     </div>
     </a>
   </div>
