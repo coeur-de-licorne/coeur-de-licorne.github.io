@@ -8,11 +8,6 @@ fi
 
 FOLDER="$1"
 
-if ! command -v mogrify &>/dev/null; then
-  echo "Error: mogrify (ImageMagick) is not installed."
-  exit 1
-fi
-
 optimize_image() {
   local file="$1"
   local ext="${file##*.}"
