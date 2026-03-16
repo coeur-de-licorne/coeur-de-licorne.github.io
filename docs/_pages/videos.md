@@ -4,7 +4,7 @@ permalink: /videos
 title: "Vidéos"
 ---
 
-Alors nous on adore faire des vidéos. Nos clips sont 100% autoproduit avec le smartphone minable de Papa boudin, montés sur un ordi pas du tout fait pour, et encodés en 240p. Mais c'est pas grave on rigole bien.
+Alors nous on adore faire des vidéos. Nos clips sont 100% autoproduits avec le smartphone minable de Papa boudin, montés sur un ordi pas du tout fait pour, et encodés en 240p. Mais c'est pas grave on rigole bien.
 
 ## Clips musicaux
 
