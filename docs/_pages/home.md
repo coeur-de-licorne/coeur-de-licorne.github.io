@@ -27,7 +27,7 @@ Le frisson rock de l'année
 
 <blockquote class="quote home">
 Le meilleur groupe de rock pour enfants de tous les temps
-  <span>Aldebert <span style="font-size: 12px;padding-left:10px;margin-top:6px">(enfin c'est peut-être ce qu'il dirait s'il avait entendu parlé de nous)</span></span>
+  <span>Aldebert <span style="font-size: 12px;padding-left:10px;margin-top:6px">(enfin c'est peut-être ce qu'il dirait s'il avait entendu parler de nous)</span></span>
 </blockquote>
 
 

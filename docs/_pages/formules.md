@@ -60,7 +60,7 @@ N'hésitez pas à me contacter, je suis prêt à jouer gratuitement sans souci s
 ## Info pratiques
 
 
-**Matériel**: je peux m'installer en intérieur ou extérieur, sur scène ou au sol. Si besoin je peux être complètement indépendant (j'ai ma propre sono HK Polar 8, micro, ampli et ralonges 40m). J'ai juste besoin d'un espace 3 x 2m au sol pour installer mon matériel. Il me faut juste une entrée électrique et de quoi m'abriter de la pluie si jamais le temps n'est pas idéal.
+**Matériel**: je peux m'installer en intérieur ou extérieur, sur scène ou au sol. Je suis complètement indépendant (j'ai ma propre sono HK Polar 8, micro, ampli et ralonges 40m). J'ai juste besoin d'un espace 3 x 2m au sol pour installer mon matériel, d'un endroit où me brancher et de quoi m'abriter de la pluie si jamais le temps n'est pas idéal.
 
 **Installation**: prévoir deux heures balances comprise
 

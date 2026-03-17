@@ -13,7 +13,7 @@ title: "Le groupe"
     <div>
     <p>
        Coeur de Licorne est un groupe familial composé de Papa Boudin et ses deux enfants, la Star et le professeur Prout. On a aussi Fleur St James qui nous filme et Fidel Castra qui nous aide à mixer les chansons.<br/> <br/>
-       On veut pousser les enfants à se rebeller contre l'oppression parentale, au moins le temps d'un concert, grâce au pouvoir du Roquénerol. Y'a un secret derrière le nom du groupe, mais faut venir aux concerts pour le découvrir !
+       Y'a un secret derrière le nom du groupe, mais faut venir aux concerts pour le découvrir ! On veut pousser les enfants à se rebeller contre l'oppression parentale, au moins le temps d'un concert, grâce au pouvoir du Roquénerol. 
     </p>
     </div>
     </div>
@@ -54,7 +54,7 @@ title: "Le groupe"
     <div class="texte">
       <div>
           <p>
-          <b>Pourquoi on fait ça ?</b> Déjà parce qu'on adore faire des blagues nulles en familles. Et aussi parce que tout autour de nous on voit plein d'enfants qu'on force à faire plein de trucs, et qu'on n'écoute pas beaucoup. <br/> <br/>
+          <b>Pourquoi on fait ça ?</b> Déjà parce qu'on adore faire des blagues nulles en famille. Et aussi parce que tout autour de nous on voit plein d'enfants qu'on force à faire plein de trucs, et qu'on n'écoute pas beaucoup. <br/> <br/>
           On aimerait bien qu'un jour on considère les enfants comme un classe sociale à part entière, et qu'on arrête de leur interdire l'accès à l'espace public ou à leurs droits fondamentaux.
           </p>
       </div>
