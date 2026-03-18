@@ -28,21 +28,29 @@ $masthead-link-color-visited: $masthead-link-color;
 
 .home-bg {
   background-color: black; 
-  background-image: url('/assets/images/mains/home2.jpg');
+  background-image: url('/assets/images/mains/home2.jpg'); 
+  background-position: 15% 35% !important;
+  background-size: contain !important;
   height:100vh;
-
 }
 
-@media (min-width:768px) {
-  .home-bg {
-    background-position: 50% 0% !important;
-    background-size: contain !important;
-  }
+.band-name {
+  height:25vh;
+  width: auto;
+  object-fit: contain;
+  max-width: 80vw;
 }
+
 @media (max-width: 768px) {
   .home-bg {
-    background-position: 20% 0% !important;
+    background-color: black; 
+    background-position: 15% 35% !important;
     background-size: contain !important;
+  }
+  .band-name {
+    width: 90vw;
+    max-width: 90vw;
+    height: auto;
   }
 }
 .stroke {
