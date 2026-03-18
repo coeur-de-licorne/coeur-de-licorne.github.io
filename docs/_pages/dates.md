@@ -3,6 +3,9 @@ layout: single
 permalink: /dates
 title: "Prochaines dates"
 ---
+<div style="width:100%;text-align:center;">
+<img src="/assets/images/dates/cdl_dates.png" style="height: 70vh; width: auto;"/>
+</div>
 
 ## A venir
 
@@ -16,8 +19,69 @@ title: "Prochaines dates"
             <p>
                 <b>Carnaval des Sorinières</b><br/>
                <b>10 Avril - 16h </b><br/>
-               Notre toute première vraie date, on a hâte !!! 
+               Avec des défilés, des barbes à papas, du Tchouckball en famille...
             </p> 
+        </div>
+    </div>
+</div>
+
+<div class="image-texte">
+    <div class="image">
+        <img src="/assets/images/dates/java.jpg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Ferme festive Java</b><br/>
+               <b>23 Mai - 18h30</b> <br/>
+               Un super lieu qui en plus vent des plans et des légumes, ramenez des cabas !
+            </p>  
+        </div>
+    </div>
+</div>
+
+<div class="image-texte odd">
+    <div class="image">
+        <img src="/assets/images/dates/cambuse.jpg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>La Cambuse (Nantes Pirmil)</b><br/>
+               <b>6 Juin - 19h</b> <br/>
+               La légendaire guinguette de Pirmil nous ouvre ses portes, en première partie de notre ami Ja Ro (peut-être même qu'on le rejoindra sur scène)
+            </p>  
+        </div>
+    </div>
+</div>
+
+<div class="image-texte">
+    <div class="image">
+        <img src="/assets/images/dates/léon.jpg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Guinguette à Léon</b><br/>
+               <b>14 Juin - 19h</b> <br/>
+               Après un spectacle pour enfants suspendus dans les arbres, venez tôt !
+            </p>  
+        </div>
+    </div>
+</div>
+
+
+<div class="image-texte odd">
+    <div class="image">
+        <img src="/assets/images/dates/sablière.jpg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>La Sablière (Sainte-Luce)</b><br/>
+               <b>3 Juillet - 19h</b> <br/>
+               Maxi-teuf pour fêter le dernier jour d'école, on va faire N'IMPORTE QUOI !!!
+            </p>  
         </div>
     </div>
 </div>
@@ -29,9 +93,41 @@ title: "Prochaines dates"
     <div class="texte">
         <div>
             <p>
-                <b>Ferme festive Java</b><br/>
-               <b>23 Mai - 18h30</b> <br/>
-               
+                <b>Guinguette Festive des Sorinières</b><br/>
+               <b>16 Juillet - 18h30 </b> <br/>
+               En première partie de notre ami Ja Ro (peut-être même qu'on le rejoindra sur scène)
+            </p>  
+        </div>
+    </div>
+</div>
+
+
+<div class="image-texte odd">
+    <div class="image">
+        <img src="/assets/images/dates/buissoniere.jpg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Guinguette Buissonnière (Treillières)</b><br/>
+               <b>29 Août - 19h</b> <br/>
+               La dernière fois que Papa Boudin y est allé il avait mis le feu avec le groupe de reprise La Bande FM, on espère que l'ambiance sera aussi folle !
+               En plus c'est le tout dernier weekend des grandes vacances, une dernière teuf avant la rentrée !
+            </p>  
+        </div>
+    </div>
+</div>
+
+<div class="image-texte">
+    <div class="image">
+        <img src="/assets/images/dates/echapee.png"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Médiathèque l'échapée - Salle le Treize</b><br/>
+               <b>14 Octobre - 16h </b> <br/>
+               Notre premier concert en salle fermée, avec une séance de questions/réponses à la fin ! 
             </p>  
         </div>
     </div>
