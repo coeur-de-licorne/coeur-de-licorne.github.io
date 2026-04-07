@@ -4,10 +4,10 @@ permalink: /dates
 title: "Prochaines dates"
 ---
 <div style="width:100%;text-align:center;">
-<img src="/assets/images/dates/cdl_dates.png" style="height: 70vh; width: auto;"/>
+<img src="/assets/images/dates/cdl_dates.png" style="height: 60vh; width: auto;"/>
 </div>
 
-## A venir
+## À venir
 
 
 <div class="image-texte odd">
@@ -34,7 +34,7 @@ title: "Prochaines dates"
             <p>
                 <b>Ferme festive Java</b><br/>
                <b>23 Mai - 18h30</b> <br/>
-               Un super lieu qui en plus vent des plans et des légumes, ramenez des cabas !
+               Un super lieu qui en plus vend des plants et des légumes, ramenez des cabas !
             </p>  
         </div>
     </div>
@@ -127,7 +127,7 @@ title: "Prochaines dates"
             <p>
                 <b>Médiathèque l'échapée - Salle le Treize</b><br/>
                <b>14 Octobre - 16h </b> <br/>
-               Notre premier concert en salle fermée, avec une séance de questions/réponses à la fin ! 
+               Notre premier concert en intérieur, avec une séance de questions/réponses à la fin ! 
             </p>  
         </div>
     </div>

@@ -6,11 +6,12 @@ title: "Formules"
 
 ## Le spectacle
 
-Communiqué à destinations des parents : Cœur de Licorne est un groupe de rock pour enfants. Donc le spectacle contient des blagues de prout, des chaises musicales sans chaise, des marionnettes impertinentes, des lancers de bonbons et compte bien faire sauter les bambins dans tous les sens. Nous prions les parents sensibles de venir accompagnés.
+**Communiqué à destinations des parents :** Cœur de Licorne est un groupe de rock pour enfants. Donc le spectacle contient des blagues de prout, des chaises musicales sans chaise, des marionnettes impertinentes, des lancers de bonbons et compte bien faire sauter les bambins dans tous les sens. Nous prions les parents sensibles de venir accompagnés.
 
 À travers différents styles (rock, folk, reggae...), Cœur de Licorne invite les enfants à se rebeller contre l'oppression parentale (au moins le temps d'un concert). En plus, c'est presque un spectacle éducatif puisque Papa Boudin vous présentera sa collection de gadgets pour guitare (bottleneck, pédale wah-wah, archer électronique, flûte à bec triomphale....). Si les parents sont gentils, y aura peut-être même une chanson pour vieux dans le tas. Alors venez secouer vos fesses en famille pour leur toute première tournée européenne (bon ok, leur toute première tournée tout court)
 
-Durée : 1 heure
+Durée : 55 minutes
+
 Public : De 5 à 77 ans
 
 

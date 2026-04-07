@@ -41,7 +41,7 @@ title: "Le groupe"
     <div class="texte"><div>
     <p>
      <b>En concert</b> c'est un peu n'importe quoi. La moitié du temps la Star vient même pas (elle ne se déplace que pour les Zeniths), du coup Papa Boudin a embauché Patoufette, une marionnette éfrontée qui pionce la moitié du temps. <br/> <br/>
-     Heureusement le professeur Prout nous souve la mise avec sa démonstration de la Fart Machine, le fruit de longues années de recherches présentées en exclusivité mondiale.
+     Heureusement le professeur Prout nous sauve la mise avec sa démonstration de la Fart Machine, le fruit de longues années de recherches présentées en exclusivité mondiale.
     </p></div>
     </div>
     
