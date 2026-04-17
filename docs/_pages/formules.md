@@ -19,7 +19,7 @@ Public : De 5 à 77 ans
 
 <div class="container">
   <div class="table-price">
-    <a href="mailto:coeur.de.licorne.band@gmail.com">
+    <a href="mailto:lagardealex@gmail.com">
     <div class="pic-item">
        <img src="/assets/images/formules/1.jpg"/>
     </div>
@@ -30,9 +30,9 @@ Public : De 5 à 77 ans
     </a>
   </div>
   <div class="table-price">
-    <a href="mailto:coeur.de.licorne.band@gmail.com">
+    <a href="mailto:lagardealex@gmail.com">
     <div class="pic-item">
-      <img src="/assets/images/mains/live3.jpg"/>
+     <img src="/assets/images/formules/3.jpg"/>
     </div>
     <div class="description">
      <h1 class="title">Concert <br/>+ Sono pour Boum</h1>
@@ -41,9 +41,9 @@ Public : De 5 à 77 ans
     </a>
   </div>
   <div class="table-price">
-    <a href="mailto:coeur.de.licorne.band@gmail.com">
+    <a href="mailto:lagardealex@gmail.com">
     <div class="pic-item">
-     <img src="/assets/images/formules/3.jpg"/>
+     <img src="/assets/images/dates/carnaval/carnaval2.jpg"/>
     </div>
     <div class="description">
       <h1 class="title">Concert enfant + Concert adulte</h1>

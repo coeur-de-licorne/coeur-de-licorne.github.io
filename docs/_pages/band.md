@@ -49,7 +49,7 @@ title: "Le groupe"
 
 <div class="image-texte odd">
     <div class="image">
-        <img src="/assets/images/mains/live2.jpeg"/>
+        <img src="/assets/images/dates/carnaval/carnaval1.jpg"/>
     </div>
     <div class="texte">
       <div>

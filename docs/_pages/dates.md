@@ -10,22 +10,9 @@ title: "Prochaines dates"
 ## À venir
 
 
-<div class="image-texte odd">
-    <div class="image">
-        <img src="/assets/images/dates/carnaval.png"/>
-    </div>
-    <div class="texte">
-        <div>
-            <p>
-                <b>Carnaval des Sorinières</b><br/>
-               <b>10 Avril - 16h </b><br/>
-               Avec des défilés, des barbes à papas, du Tchouckball en famille...
-            </p> 
-        </div>
-    </div>
-</div>
 
-<div class="image-texte">
+
+<div class="image-texte odd">
     <div class="image">
         <img src="/assets/images/dates/java.jpg"/>
     </div>
@@ -35,6 +22,22 @@ title: "Prochaines dates"
                 <b>Ferme festive Java</b><br/>
                <b>23 Mai - 18h30</b> <br/>
                Un super lieu qui en plus vend des plants et des légumes, ramenez des cabas !
+            </p>  
+        </div>
+    </div>
+</div>
+
+
+<div class="image-texte">
+    <div class="image">
+        <img src="/assets/images/dates/ronces.jpg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Jardin des ronces</b><br/>
+               <b>30 Mai - 17h30</b> <br/>
+               Grande fête annuel de ce lieu collectif, un grand jardin auto-géré 
             </p>  
         </div>
     </div>
@@ -88,7 +91,7 @@ title: "Prochaines dates"
 
 <div class="image-texte">
     <div class="image">
-        <img src="/assets/images/mains/live3.jpg"/>
+        <img src="/assets/images/dates/carnaval/carnaval3.jpg"/>
     </div>
     <div class="texte">
         <div>
@@ -120,6 +123,34 @@ title: "Prochaines dates"
 
 <div class="image-texte">
     <div class="image">
+        <img src="/assets/images/dates/carnaval/carnaval5.jpg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>CHU - Oncologie pédiatrique (privé)</b><br/>
+               <b>14 Septembre - 14h</b> <br/>
+            </p>  
+        </div>
+    </div>
+</div>
+
+<div class="image-texte odd">
+    <div class="image">
+        <img src="/assets/images/dates/carnaval/carnaval6.jpg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Teuf du siècle (privé)</b><br/>
+               <b>19 Septembre - 18h</b> <br/>
+            </p>  
+        </div>
+    </div>
+</div>
+
+<div class="image-texte">
+    <div class="image">
         <img src="/assets/images/dates/echapee.png"/>
     </div>
     <div class="texte">
@@ -134,6 +165,22 @@ title: "Prochaines dates"
 </div>
 
 ## Dates passées
+
+<div class="image-texte">
+    <div class="image">
+        <img src="/assets/images/dates/carnaval/carnaval2.jpg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Carnaval des Sorinières</b><br/>
+               <b>10 Avril - 16h </b><br/>
+               Notre première date publique ! Avec des défilés, des barbes à papas, du Tchouckball en famille...<br/>
+               On avait pas anticipé à quel points les enfants allaient envahir la scène, on en avait partout autour c'était un joyeux bazar.
+            </p> 
+        </div>
+    </div>
+</div>
 
 <div class="image-texte odd">
     <div class="image">
