@@ -32,7 +32,7 @@ Public : De 5 à 77 ans
   <div class="table-price">
     <a href="mailto:lagardealex@gmail.com">
     <div class="pic-item">
-     <img src="/assets/images/formules/3.jpg"/>
+     <img src="/assets/images/mains/live2.jpeg"/>
     </div>
     <div class="description">
      <h1 class="title">Concert <br/>+ Sono pour Boum</h1>

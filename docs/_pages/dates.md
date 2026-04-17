@@ -91,7 +91,7 @@ title: "Prochaines dates"
 
 <div class="image-texte">
     <div class="image">
-        <img src="/assets/images/dates/carnaval/carnaval3.jpg"/>
+        <img src="/assets/images/mains/live2.jpeg"/>
     </div>
     <div class="texte">
         <div>
