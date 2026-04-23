@@ -4,17 +4,15 @@ permalink: /dates
 title: "Prochaines dates"
 ---
 <div style="width:100%;text-align:center;">
-<img src="/assets/images/dates/cdl_dates.png" style="height: 60vh; width: auto;"/>
+<img src="/assets/images/dates/dates-may.jpg" style="height: 60vh; width: auto;"/>
 </div>
 
 ## À venir
 
 
-
-
-<div class="image-texte odd">
-    <div class="image">
-        <img src="/assets/images/dates/java.jpg"/>
+<div class="image-texte compact odd">
+    <div class="image" style="background-color: #f5f0ea" >
+        <img class="contain" src="/assets/images/dates/java.jpg"/>
     </div>
     <div class="texte">
         <div>
@@ -28,7 +26,7 @@ title: "Prochaines dates"
 </div>
 
 
-<div class="image-texte">
+<div class="image-texte compact">
     <div class="image">
         <img src="/assets/images/dates/ronces.jpg"/>
     </div>
@@ -43,9 +41,9 @@ title: "Prochaines dates"
     </div>
 </div>
 
-<div class="image-texte odd">
-    <div class="image">
-        <img src="/assets/images/dates/cambuse.jpg"/>
+<div class="image-texte compact odd">
+    <div class="image" style="border-top: 1px solid grey;border-right: 1px solid grey">
+        <img class="contain" src="/assets/images/dates/cambuse.jpg"/>
     </div>
     <div class="texte">
         <div>
@@ -58,9 +56,9 @@ title: "Prochaines dates"
     </div>
 </div>
 
-<div class="image-texte">
-    <div class="image">
-        <img src="/assets/images/dates/léon.jpg"/>
+<div class="image-texte compact">
+    <div class="image" style="border: 1px solid grey;">
+        <img class="contain" src="/assets/images/dates/léon.jpg"/>
     </div>
     <div class="texte">
         <div>
@@ -74,9 +72,9 @@ title: "Prochaines dates"
 </div>
 
 
-<div class="image-texte odd">
-    <div class="image">
-        <img src="/assets/images/dates/sablière.jpg"/>
+<div class="image-texte compact odd">
+    <div class="image" style="background-color: #e62c17;">
+        <img class="contain" src="/assets/images/dates/sablière.jpg"/>
     </div>
     <div class="texte">
         <div>
@@ -89,7 +87,7 @@ title: "Prochaines dates"
     </div>
 </div>
 
-<div class="image-texte">
+<div class="image-texte compact">
     <div class="image">
         <img src="/assets/images/mains/live2.jpeg"/>
     </div>
@@ -105,9 +103,9 @@ title: "Prochaines dates"
 </div>
 
 
-<div class="image-texte odd">
-    <div class="image">
-        <img src="/assets/images/dates/buissoniere.jpg"/>
+<div class="image-texte compact odd">
+    <div class="image"  style="border-top: 1px solid grey;border-right: 1px solid grey">
+        <img class="contain" src="/assets/images/dates/buissoniere.jpg"/>
     </div>
     <div class="texte">
         <div>
@@ -121,7 +119,7 @@ title: "Prochaines dates"
     </div>
 </div>
 
-<div class="image-texte">
+<div class="image-texte compact">
     <div class="image">
         <img src="/assets/images/dates/carnaval/carnaval5.jpg"/>
     </div>
@@ -135,7 +133,7 @@ title: "Prochaines dates"
     </div>
 </div>
 
-<div class="image-texte odd">
+<div class="image-texte compact odd">
     <div class="image">
         <img src="/assets/images/dates/carnaval/carnaval6.jpg"/>
     </div>
@@ -149,7 +147,7 @@ title: "Prochaines dates"
     </div>
 </div>
 
-<div class="image-texte">
+<div class="image-texte compact">
     <div class="image">
         <img src="/assets/images/dates/echapee.png"/>
     </div>
@@ -166,7 +164,23 @@ title: "Prochaines dates"
 
 ## Dates passées
 
-<div class="image-texte">
+
+<div class="image-texte compact odd">
+    <div class="image">
+        <img src="/assets/images/dates/bubbles.jpg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Anniv au grand blotereau (privé)</b><br/>
+               <b>10 Avril - 16h </b><br/>
+              Rock and roll and bubbles !
+            </p> 
+        </div>
+    </div>
+</div>
+
+<div class="image-texte compact">
     <div class="image">
         <img src="/assets/images/dates/carnaval/carnaval2.jpg"/>
     </div>
@@ -182,7 +196,7 @@ title: "Prochaines dates"
     </div>
 </div>
 
-<div class="image-texte odd">
+<div class="image-texte compact odd">
     <div class="image">
         <img src="/assets/images/dates/libres.jpeg"/>
     </div>
