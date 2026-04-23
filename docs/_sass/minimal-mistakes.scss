@@ -257,22 +257,24 @@ p {
     padding-bottom: 10vh;
   }
 
-  &.compact {
 
-  padding-bottom: 0px;
-    .image {
-        height: 25vh;
-      img {
-        height: 25vh;
-        &.contain {
-        object-fit: contain;
-        padding-bottom: 5px;
-        padding-top: 5px;
+  &.compact {
+    @include breakpoint($medium) {
+    padding-bottom: 0px;
+      .image {
+          height: 25vh;
+        img {
+          height: 25vh;
+          &.contain {
+          object-fit: contain;
+          padding-bottom: 5px;
+          padding-top: 5px;
+          }
         }
       }
-    }
-    .texte {
-      height: 18vh;
+      .texte {
+        height: 18vh;
+      }
     }
   }
 
