@@ -12,7 +12,7 @@ title: "Prochaines dates"
 
 <div class="image-texte compact">
     <div class="image">
-        <img  class="contain"  src="/assets/images/dates/ronces.jpg"/>
+        <img  src="/assets/images/dates/ronces.jpg"/>
     </div>
     <div class="texte">
         <div>
@@ -57,7 +57,7 @@ title: "Prochaines dates"
 
 <div class="image-texte compact odd">
     <div class="image" style="border: 1px solid grey;">
-        <img class="contain" src="/assets/images/dates/random.jpeg"/>
+        <img src="/assets/images/dates/random.jpeg" style="object-position: center -25vh;"/>
     </div>
     <div class="texte">
         <div>
@@ -87,7 +87,7 @@ title: "Prochaines dates"
 
 <div class="image-texte compact odd">
     <div class="image">
-        <img src="/assets/images/mains/live2.jpeg"/>
+        <img src="/assets/images/mains/live2.jpeg" style="object-position: center -25vh;"/>
     </div>
     <div class="texte">
         <div>
@@ -164,7 +164,7 @@ title: "Prochaines dates"
 
 <div class="image-texte compact">
     <div class="image" style="background-color: #f5f0ea" >
-        <img class="contain" src="/assets/images/dates/java.jpeg"/>
+        <img  style="object-position: center -25vh;"  src="/assets/images/dates/java.jpeg"/>
     </div>
     <div class="texte">
         <div>
