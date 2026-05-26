@@ -55,8 +55,22 @@ title: "Prochaines dates"
     </div>
 </div>
 
-
 <div class="image-texte compact odd">
+    <div class="image" style="border: 1px solid grey;">
+        <img class="contain" src="/assets/images/dates/random.jpeg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Anniversaire (privé)</b><br/>
+               <b>20 Juin - 16h</b> <br/>
+               Notre première fête privée : les 10 ans d'un copain ! On va sortir la machine à barbe à papa pour l'occasion :)
+            </p>  
+        </div>
+    </div>
+</div>
+
+<div class="image-texte compact">
     <div class="image" style="background-color: #e62c17;">
         <img class="contain" src="/assets/images/dates/sablière.jpg"/>
     </div>
@@ -71,7 +85,7 @@ title: "Prochaines dates"
     </div>
 </div>
 
-<div class="image-texte compact">
+<div class="image-texte compact odd">
     <div class="image">
         <img src="/assets/images/mains/live2.jpeg"/>
     </div>
@@ -87,7 +101,7 @@ title: "Prochaines dates"
 </div>
 
 
-<div class="image-texte compact odd">
+<div class="image-texte compact">
     <div class="image"  style="border-top: 1px solid grey;border-right: 1px solid grey">
         <img class="contain" src="/assets/images/dates/buissoniere.jpg"/>
     </div>
@@ -103,7 +117,7 @@ title: "Prochaines dates"
     </div>
 </div>
 
-<div class="image-texte compact">
+<div class="image-texte compact odd">
     <div class="image">
         <img src="/assets/images/dates/carnaval/carnaval5.jpg"/>
     </div>
@@ -117,7 +131,7 @@ title: "Prochaines dates"
     </div>
 </div>
 
-<div class="image-texte compact odd">
+<div class="image-texte compact">
     <div class="image">
         <img src="/assets/images/dates/carnaval/carnaval6.jpg"/>
     </div>
@@ -131,7 +145,7 @@ title: "Prochaines dates"
     </div>
 </div>
 
-<div class="image-texte compact">
+<div class="image-texte compact odd">
     <div class="image">
         <img src="/assets/images/dates/echapee.png"/>
     </div>
