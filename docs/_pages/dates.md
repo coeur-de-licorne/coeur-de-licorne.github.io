@@ -12,7 +12,7 @@ title: "Prochaines dates"
 
 <div class="image-texte compact">
     <div class="image">
-        <img src="/assets/images/dates/ronces.jpg"/>
+        <img  class="contain"  src="/assets/images/dates/ronces.jpg"/>
     </div>
     <div class="texte">
         <div>
