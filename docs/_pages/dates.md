@@ -19,7 +19,7 @@ title: "Prochaines dates"
             <p>
                 <b>Jardin des ronces</b><br/>
                <b>30 Mai - 17h30</b> <br/>
-               Grande fête annuel de ce lieu collectif, un grand jardin auto-géré 
+               Grande fête annuelle de ce lieu collectif, un grand jardin auto-géré où reignent le partage, l'entraide et la lutte. Tout ce qu'on aime !
             </p>  
         </div>
     </div>
