@@ -10,22 +10,6 @@ title: "Prochaines dates"
 ## À venir
 
 
-<div class="image-texte compact odd">
-    <div class="image" style="background-color: #f5f0ea" >
-        <img class="contain" src="/assets/images/dates/java.jpg"/>
-    </div>
-    <div class="texte">
-        <div>
-            <p>
-                <b>Ferme festive Java</b><br/>
-               <b>23 Mai - 18h30</b> <br/>
-               Un super lieu qui en plus vend des plants et des légumes, ramenez des cabas !
-            </p>  
-        </div>
-    </div>
-</div>
-
-
 <div class="image-texte compact">
     <div class="image">
         <img src="/assets/images/dates/ronces.jpg"/>
@@ -164,6 +148,20 @@ title: "Prochaines dates"
 
 ## Dates passées
 
+<div class="image-texte compact">
+    <div class="image" style="background-color: #f5f0ea" >
+        <img class="contain" src="/assets/images/dates/java.jpeg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Ferme festive Java</b><br/>
+               <b>23 Mai - 18h30</b> <br/>
+               L'ouverture de la saison estivale de cette guinguette/ferme maraîchère. On a cru cuire tellement il faisait chaud, mais on a passé un très bon moment. Une équipe adorable ! 
+            </p>  
+        </div>
+    </div>
+</div>
 
 <div class="image-texte compact odd">
     <div class="image">
