@@ -145,21 +145,6 @@ title: "Prochaines dates"
     </div>
 </div>
 
-<div class="image-texte compact odd">
-    <div class="image">
-        <img src="/assets/images/dates/echapee.png"/>
-    </div>
-    <div class="texte">
-        <div>
-            <p>
-                <b>Médiathèque l'échapée - Salle le Treize</b><br/>
-               <b>14 Octobre - 16h </b> <br/>
-               Notre premier concert en intérieur, avec une séance de questions/réponses à la fin ! 
-            </p>  
-        </div>
-    </div>
-</div>
-
 ## Dates passées
 
 <div class="image-texte compact">
