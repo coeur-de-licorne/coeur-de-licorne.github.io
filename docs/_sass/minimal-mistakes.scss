@@ -259,6 +259,13 @@ p {
 
 
   &.compact {
+    @include breakpoint(max-width $medium - 1px) {
+      .image {
+        img {
+          object-position: center center !important;
+        }
+      }
+    }
     @include breakpoint($medium) {
     padding-bottom: 0px;
       .image {

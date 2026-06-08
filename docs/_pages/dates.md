@@ -10,35 +10,6 @@ title: "Prochaines dates"
 ## À venir
 
 
-<div class="image-texte compact">
-    <div class="image">
-        <img  src="/assets/images/dates/ronces.jpg"/>
-    </div>
-    <div class="texte">
-        <div>
-            <p>
-                <b>Jardin des ronces</b><br/>
-               <b>30 Mai - 17h30</b> <br/>
-               Grande fête annuelle de ce lieu collectif, un grand jardin auto-géré où reignent le partage, l'entraide et la lutte. Tout ce qu'on aime !
-            </p>  
-        </div>
-    </div>
-</div>
-
-<div class="image-texte compact odd">
-    <div class="image" style="border-top: 1px solid grey;border-right: 1px solid grey">
-        <img class="contain" src="/assets/images/dates/cambuse.jpg"/>
-    </div>
-    <div class="texte">
-        <div>
-            <p>
-                <b>La Cambuse (Nantes Pirmil)</b><br/>
-               <b>6 Juin - 19h</b> <br/>
-               La légendaire guinguette de Pirmil nous ouvre ses portes, en première partie de notre ami Ja Ro (peut-être même qu'on le rejoindra sur scène)
-            </p>  
-        </div>
-    </div>
-</div>
 
 <div class="image-texte compact">
     <div class="image" style="border: 1px solid grey;">
@@ -48,7 +19,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Guinguette à Léon</b><br/>
-               <b>14 Juin - 19h</b> <br/>
+               <b>14 Juin - 18h30</b> <br/>
                Après un spectacle pour enfants suspendus dans les arbres, venez tôt !
             </p>  
         </div>
@@ -147,6 +118,38 @@ title: "Prochaines dates"
 
 ## Dates passées
 
+
+<div class="image-texte compact">
+    <div class="image" style="border-top: 1px solid grey;border-right: 1px solid grey">
+        <img  src="/assets/images/dates/cambuse1.jpeg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>La Cambuse (Nantes Pirmil)</b><br/>
+               <b>6 Juin</b> <br/>
+               La Cambuse ! Tu étais folle ! Tu étais rock ! C'était le feu ! En en plus on a pu enchainer avec un duo avec mon ami à la voix d'or le grand JaRo !
+               Maximum bamboule
+            </p>  
+        </div>
+    </div>
+</div>
+
+<div class="image-texte compact odd">
+    <div class="image">
+        <img  src="/assets/images/dates/ronces.jpg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Jardin des ronces</b><br/>
+               <b>30 Mai</b> <br/>
+               Grande fête annuelle de ce lieu collectif, un grand jardin auto-géré où reignent le partage, l'entraide et la lutte. Tout ce qu'on aime !
+            </p>  
+        </div>
+    </div>
+</div>
+
 <div class="image-texte compact">
     <div class="image" style="background-color: #f5f0ea" >
         <img  style="object-position: center -25vh;"  src="/assets/images/dates/java.jpeg"/>
@@ -155,7 +158,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Ferme festive Java</b><br/>
-               <b>23 Mai - 18h30</b> <br/>
+               <b>23 Mai</b> <br/>
                L'ouverture de la saison estivale de cette guinguette/ferme maraîchère. On a cru cuire tellement il faisait chaud, mais on a passé un très bon moment. Une équipe adorable ! 
             </p>  
         </div>
@@ -170,7 +173,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Anniv au grand blotereau (privé)</b><br/>
-               <b>10 Avril - 16h </b><br/>
+               <b>10 Avril </b><br/>
               Rock and roll and bubbles !
             </p> 
         </div>
@@ -185,7 +188,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Carnaval des Sorinières</b><br/>
-               <b>10 Avril - 16h </b><br/>
+               <b>10 Avril</b><br/>
                Notre première date publique ! Avec des défilés, des barbes à papas, du Tchouckball en famille...<br/>
                On avait pas anticipé à quel points les enfants allaient envahir la scène, on en avait partout autour c'était un joyeux bazar.
             </p> 
@@ -200,7 +203,7 @@ title: "Prochaines dates"
     <div class="texte">
         <div>
             <p>
-               <b>15 Mars 2026</b> Les Champs Libres
+               <b>15 Mars</b> Les Champs Libres
             </p>  
             <p>Tout premier concert, avec les copains...<br/>Beaucoup d'amour et de rire !</p>
         </div>
