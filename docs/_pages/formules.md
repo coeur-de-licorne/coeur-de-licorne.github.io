@@ -25,7 +25,7 @@ Public : De 5 à 77 ans
     </div>
     <div class="description">
       <h1 class="title">Concert</h1>
-      <span class="price">100€ (négociable)<br/>Gratuit sous conditions</span>
+      <span class="price">200€ GUSO (négociable)<br/>Gratuit sous conditions</span>
     </div>
     </a>
   </div>
@@ -36,7 +36,7 @@ Public : De 5 à 77 ans
     </div>
     <div class="description">
      <h1 class="title">Concert <br/>+ Sono pour Boum</h1>
-    <span class="price"><br/>100€ + 30€/heure (négociable)</span>
+    <span class="price"><br/>200€ GUSO + 30€/heure (négociable)</span>
     </div>
     </a>
   </div>
