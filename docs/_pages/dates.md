@@ -9,38 +9,6 @@ title: "Prochaines dates"
 
 ## À venir
 
-
-
-<div class="image-texte compact">
-    <div class="image" style="border: 1px solid grey;">
-        <img class="contain" src="/assets/images/dates/léon.jpg"/>
-    </div>
-    <div class="texte">
-        <div>
-            <p>
-                <b>Guinguette à Léon</b><br/>
-               <b>14 Juin - 18h30</b> <br/>
-               Après un spectacle pour enfants suspendus dans les arbres, venez tôt !
-            </p>  
-        </div>
-    </div>
-</div>
-
-<div class="image-texte compact odd">
-    <div class="image" style="border: 1px solid grey;">
-        <img src="/assets/images/dates/random.jpeg" style="object-position: center -25vh;"/>
-    </div>
-    <div class="texte">
-        <div>
-            <p>
-                <b>Anniversaire (privé)</b><br/>
-               <b>20 Juin - 16h</b> <br/>
-               Notre première fête privée : les 10 ans d'un copain ! On va sortir la machine à barbe à papa pour l'occasion :)
-            </p>  
-        </div>
-    </div>
-</div>
-
 <div class="image-texte compact">
     <div class="image" style="background-color: #e62c17;">
         <img class="contain" src="/assets/images/dates/sablière.jpg"/>
@@ -118,6 +86,35 @@ title: "Prochaines dates"
 
 ## Dates passées
 
+<div class="image-texte compact">
+    <div class="image" style="border: 1px solid grey;">
+        <img src="/assets/images/dates/random.jpeg" style="object-position: center -25vh;"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Anniversaire (privé)</b><br/>
+               <b>20 Juin - 16h</b> <br/>
+               Notre première formule anniv d'enfants pour les 9 ans de William ! Au programme : set resserré (35 minutes) puis barbes à papa avec notre grosse machine !
+            </p>  
+        </div>
+    </div>
+</div>
+
+<div class="image-texte compact odd">
+    <div class="image" style="border: 1px solid grey;">
+        <img class="contain" src="/assets/images/dates/léon.jpg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Guinguette à Léon</b><br/>
+               <b>14 Juin - 18h30</b> <br/>
+               Comment c'était GÉNIAL !!! Et en plus, truc de fou, y'avait un Bouskidou dans le public qui a bien aimé ! Tellement ému, le feu !!!
+            </p>  
+        </div>
+    </div>
+</div>
 
 <div class="image-texte compact">
     <div class="image" style="border-top: 1px solid grey;border-right: 1px solid grey">

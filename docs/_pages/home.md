@@ -29,6 +29,6 @@ Le meilleur groupe de rock pour enfants de tous les temps
 
 
 <blockquote class="quote home">
-Coeur [...] de Licorne [...] changera le face [...] du monde des sorciers
+Coeur [...] de Licorne [...] changera la face [...] du monde des sorciers
   <span>Albus Dumbledore, dans Harry Potter et la coupe de feu <span style="font-size: 12px;padding-left:10px;margin-top:6px">(pages 18, 213, 343, 745)</span></span>
 </blockquote>
