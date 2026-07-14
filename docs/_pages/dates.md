@@ -151,7 +151,7 @@ title: "Prochaines dates"
 
 <div class="image-texte compact odd">
     <div class="image" style="border: 1px solid grey;">
-        <img class="contain" src="/assets/images/dates/leon2.jpg"/>
+        <img src="/assets/images/dates/leon2.jpg"/>
     </div>
     <div class="texte">
         <div>
