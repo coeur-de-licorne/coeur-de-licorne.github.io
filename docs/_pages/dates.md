@@ -9,21 +9,6 @@ title: "Prochaines dates"
 
 ## À venir
 
-<div class="image-texte compact">
-    <div class="image" style="background-color: #e62c17;">
-        <img class="contain" src="/assets/images/dates/sablière.jpg"/>
-    </div>
-    <div class="texte">
-        <div>
-            <p>
-                <b>La Sablière (Sainte-Luce)</b><br/>
-               <b>3 Juillet - 19h</b> <br/>
-               Maxi-teuf pour fêter le dernier jour d'école, on va faire N'IMPORTE QUOI !!!
-            </p>  
-        </div>
-    </div>
-</div>
-
 <div class="image-texte compact odd">
     <div class="image">
         <img src="/assets/images/mains/live2.jpeg" style="object-position: center -25vh;"/>
@@ -84,7 +69,70 @@ title: "Prochaines dates"
     </div>
 </div>
 
+<div class="image-texte compact odd">
+    <div class="image" style="background-color: #e62c17;">
+        <img class="contain" src="/assets/images/dates/hangar.png"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Hangar 24</b><br/>
+               <b>31 Octobre 16h</b> <br/>
+              Maxi teuf d'hallowen déguisée avant la chasse aux bonbons !
+            </p>  
+        </div>
+    </div>
+</div>
+
+<div class="image-texte compact">
+    <div class="image" style="background-color: #e62c17;">
+        <img class="contain" src="/assets/images/dates/petit-cafe.jpeg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Le Petit Café (Rezé)</b><br/>
+               <b>5 Mars 19h</b> <br/>
+                On y avait déjà joué en famille entre frères, le légendaire Petit Café de Rezé nous ouvre ses portes rock'n'roll licorne !
+            </p>  
+        </div>
+    </div>
+</div>
+
+
 ## Dates passées
+
+<div class="image-texte compact">
+    <div class="image" style="background-color: #e62c17;">
+        <img src="/assets/images/dates/airshow.jpg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Live Air Show Radio</b><br/>
+               <b>7 Juillet 2026</b> <br/>
+              Notre première radio. On a pu parler du projet, de nos valeurs, et fait 2 chansons en live dispo sur Youtube. Un grand merci à Arno, Laurence et Gérald pour l'accueil.
+            </p>  
+        </div>
+    </div>
+</div>
+
+
+<div class="image-texte compact odd">
+    <div class="image" style="background-color: #e62c17;">
+        <img src="/assets/images/dates/sabliere.jpeg" style="object-position: center -20vh;"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>La Sablière (Sainte-Luce)</b><br/>
+               <b>3 Juillet 2026</b> <br/>
+               Maxi-teuf pour fêter le dernier jour d'école en bords de loire. Royal, on a enchaîné avec une boum et on a fait la chenille c'était n'importe quoi ! 
+            </p>  
+        </div>
+    </div>
+</div>
+
 
 <div class="image-texte compact">
     <div class="image" style="border: 1px solid grey;">
@@ -94,7 +142,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Anniversaire (privé)</b><br/>
-               <b>20 Juin - 16h</b> <br/>
+               <b>20 Juin 2026</b> <br/>
                Notre première formule anniv d'enfants pour les 9 ans de William ! Au programme : set resserré (35 minutes) puis barbes à papa avec notre grosse machine !
             </p>  
         </div>
@@ -109,7 +157,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Guinguette à Léon</b><br/>
-               <b>14 Juin - 18h30</b> <br/>
+               <b>14 Juin 2026</b> <br/>
                Comment c'était GÉNIAL !!! Et en plus, truc de fou, y'avait un Bouskidou dans le public qui a bien aimé ! Tellement ému, le feu !!!
             </p>  
         </div>
@@ -124,7 +172,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>La Cambuse (Nantes Pirmil)</b><br/>
-               <b>6 Juin</b> <br/>
+               <b>6 Juin 2026</b> <br/>
                La Cambuse ! Tu étais folle ! Tu étais rock ! C'était le feu ! En en plus on a pu enchainer avec un duo avec mon ami à la voix d'or le grand JaRo !
                Maximum bamboule
             </p>  
@@ -140,7 +188,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Jardin des ronces</b><br/>
-               <b>30 Mai</b> <br/>
+               <b>30 Mai 2026</b> <br/>
                Grande fête annuelle de ce lieu collectif, un grand jardin auto-géré où reignent le partage, l'entraide et la lutte. Tout ce qu'on aime !
             </p>  
         </div>
@@ -155,7 +203,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Ferme festive Java</b><br/>
-               <b>23 Mai</b> <br/>
+               <b>23 Mai 2026</b> <br/>
                L'ouverture de la saison estivale de cette guinguette/ferme maraîchère. On a cru cuire tellement il faisait chaud, mais on a passé un très bon moment. Une équipe adorable ! 
             </p>  
         </div>
@@ -170,7 +218,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Anniv au grand blotereau (privé)</b><br/>
-               <b>10 Avril </b><br/>
+               <b>10 Avril 2026</b><br/>
               Rock and roll and bubbles !
             </p> 
         </div>
@@ -185,7 +233,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Carnaval des Sorinières</b><br/>
-               <b>10 Avril</b><br/>
+               <b>10 Avril 2026</b><br/>
                Notre première date publique ! Avec des défilés, des barbes à papas, du Tchouckball en famille...<br/>
                On avait pas anticipé à quel points les enfants allaient envahir la scène, on en avait partout autour c'était un joyeux bazar.
             </p> 
@@ -200,7 +248,7 @@ title: "Prochaines dates"
     <div class="texte">
         <div>
             <p>
-               <b>15 Mars</b> Les Champs Libres
+               <b>15 Mars 2026</b> Les Champs Libres
             </p>  
             <p>Tout premier concert, avec les copains...<br/>Beaucoup d'amour et de rire !</p>
         </div>
