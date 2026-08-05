@@ -3,30 +3,11 @@ layout: single
 permalink: /dates
 title: "Prochaines dates"
 ---
-<div style="width:100%;text-align:center;">
-<img src="/assets/images/dates/dates-may.jpg" style="height: 60vh; width: auto;"/>
-</div>
 
 ## À venir
 
-<div class="image-texte compact odd">
-    <div class="image">
-        <img src="/assets/images/mains/live2.jpeg" style="object-position: center -25vh;"/>
-    </div>
-    <div class="texte">
-        <div>
-            <p>
-                <b>Guinguette Festive des Sorinières</b><br/>
-               <b>16 Juillet - 18h30 </b> <br/>
-               En première partie de notre ami Ja Ro (peut-être même qu'on le rejoindra sur scène)
-            </p>  
-        </div>
-    </div>
-</div>
-
-
 <div class="image-texte compact">
-    <div class="image"  style="border-top: 1px solid grey;border-right: 1px solid grey">
+    <div class="image"  style="border: 1px solid grey;border: 1px solid grey">
         <img class="contain" src="/assets/images/dates/buissoniere.jpg"/>
     </div>
     <div class="texte">
@@ -101,6 +82,21 @@ title: "Prochaines dates"
 
 
 ## Dates passées
+
+<div class="image-texte compact odd">
+    <div class="image">
+        <img src="/assets/images/dates/44840.jpeg" style="object-position: center -30vh;"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Guinguette Festive des Sorinières</b><br/>
+               <b>16 Juillet</b> <br/>
+               Bonheur de jouer à la maison !  En plus on a pu enchaîner avec notre ami Ja Ro pour un deuxième concert "pour grands".
+            </p>  
+        </div>
+    </div>
+</div>
 
 <div class="image-texte compact">
     <div class="image" style="background-color: #e62c17;">
