@@ -51,8 +51,38 @@ title: "Prochaines dates"
 </div>
 
 <div class="image-texte compact odd">
+    <div class="image">
+        <img src="/assets/images/dates/cambuse1.jpeg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Bar Bichou</b><br/>
+               <b>26 Septembre - 18h</b> <br/>
+               Avec mon frère le grand l'incroyable Big Daddy !
+            </p>  
+        </div>
+    </div>
+</div>
+
+<div class="image-texte compact">
+    <div class="image">
+        <img src="/assets/images/dates/bubbles.jpg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Date mystère</b><br/>
+               <b>16 Octobre- 16h</b> <br/>
+              Pitêtre bien qu'on va faire un truc hihi
+            </p>  
+        </div>
+    </div>
+</div>
+
+<div class="image-texte compact odd">
     <div class="image" style="background-color: #e62c17;">
-        <img class="contain" src="/assets/images/dates/hangar.png"/>
+        <img class="contain" src="/assets/images/dates/hangar.png" style="background-color:#a1c8ff"/>
     </div>
     <div class="texte">
         <div>
@@ -107,7 +137,7 @@ title: "Prochaines dates"
             <p>
                 <b>Live Air Show Radio</b><br/>
                <b>7 Juillet 2026</b> <br/>
-              Notre première radio. On a pu parler du projet, de nos valeurs, et fait 2 chansons en live dispo sur Youtube. Un grand merci à Arno, Laurence et Gérald pour l'accueil.
+              Notre première radio. On a pu parler du projet, de nos valeurs, et fait 2 chansons en live dispo sur Youtube. Un grand merci à Arno, Laurence et Gérald pour l'accueil. Vous pouvez écouter l'émission dans l'onglet "Presse" !
             </p>  
         </div>
     </div>
@@ -132,7 +162,7 @@ title: "Prochaines dates"
 
 <div class="image-texte compact">
     <div class="image" style="border: 1px solid grey;">
-        <img src="/assets/images/dates/random.jpeg" style="object-position: center -25vh;"/>
+        <img src="/assets/images/dates/random.jpeg"   style="object-position: center -10vh;" />
     </div>
     <div class="texte">
         <div>
@@ -185,7 +215,7 @@ title: "Prochaines dates"
             <p>
                 <b>Jardin des ronces</b><br/>
                <b>30 Mai 2026</b> <br/>
-               Grande fête annuelle de ce lieu collectif, un grand jardin auto-géré où reignent le partage, l'entraide et la lutte. Tout ce qu'on aime !
+               Grande fête annuelle de ce lieu collectif, un jardin auto-géré où reignent le partage, l'entraide et la lutte. Tout ce qu'on aime !
             </p>  
         </div>
     </div>
