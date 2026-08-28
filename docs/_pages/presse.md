@@ -30,3 +30,11 @@ title: "Presse"
         <img src="/assets/images/presse/article-sorinieres.png" style="height: 60vh; width: auto;"/>
     </a>
 </div>
+
+## Août 2026 - Ouest France
+
+<div style="width:100%;text-align:center;">
+    <a href="/assets/images/presse/ouest-france-2026-08-28.png">
+        <img src="/assets/images/presse/ouest-france-2026-08-28.png" style="height: 60vh; width: auto;"/>
+    </a>
+</div>
