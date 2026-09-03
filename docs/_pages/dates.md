@@ -6,22 +6,6 @@ title: "Prochaines dates"
 
 ## À venir
 
-<div class="image-texte compact">
-    <div class="image"  style="border: 1px solid grey;border: 1px solid grey">
-        <img class="contain" src="/assets/images/dates/buissoniere.jpg"/>
-    </div>
-    <div class="texte">
-        <div>
-            <p>
-                <b>Guinguette Buissonnière (Treillières)</b><br/>
-               <b>29 Août - 19h</b> <br/>
-               La dernière fois que Papa Boudin y est allé il avait mis le feu avec le groupe de reprise La Bande FM, on espère que l'ambiance sera aussi folle !
-               En plus c'est le tout dernier weekend des grandes vacances, une dernière teuf avant la rentrée !
-            </p>  
-        </div>
-    </div>
-</div>
-
 <div class="image-texte compact odd">
     <div class="image">
         <img src="/assets/images/dates/carnaval/carnaval5.jpg"/>
@@ -112,6 +96,22 @@ title: "Prochaines dates"
 
 
 ## Dates passées
+
+<div class="image-texte compact">
+    <div class="image"  style="border: 1px solid grey;border: 1px solid grey">
+        <img  src="/assets/images/dates/buissoniere_2.jpg"/>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Guinguette Buissonnière (Treillières)</b><br/>
+               <b>29 Août</b> <br/>
+               La dernière fois que Papa Boudin y est allé il avait mis le feu avec le groupe de reprise La Bande FM !
+               En plus c'était le tout dernier weekend des grandes vacances, une dernière teuf avant la rentrée !
+            </p>  
+        </div>
+    </div>
+</div>
 
 <div class="image-texte compact odd">
     <div class="image">
@@ -244,7 +244,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Anniv au grand blotereau (privé)</b><br/>
-               <b>10 Avril 2026</b><br/>
+               <b>11 Avril 2026</b><br/>
               Rock and roll and bubbles !
             </p> 
         </div>
