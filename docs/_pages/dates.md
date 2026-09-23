@@ -6,37 +6,12 @@ title: "Prochaines dates"
 
 ## À venir
 
-<div class="image-texte compact odd">
-    <div class="image">
-        <img src="/assets/images/dates/carnaval/carnaval5.jpg"/>
-    </div>
-    <div class="texte">
-        <div>
-            <p>
-                <b>CHU - Oncologie pédiatrique (privé)</b><br/>
-               <b>14 Septembre - 14h</b> <br/>
-            </p>  
-        </div>
-    </div>
-</div>
-
-<div class="image-texte compact">
-    <div class="image">
-        <img src="/assets/images/dates/carnaval/carnaval6.jpg"/>
-    </div>
-    <div class="texte">
-        <div>
-            <p>
-                <b>Teuf du siècle (privé)</b><br/>
-               <b>19 Septembre - 18h</b> <br/>
-            </p>  
-        </div>
-    </div>
-</div>
 
 <div class="image-texte compact odd">
     <div class="image">
-        <img src="/assets/images/dates/cambuse1.jpeg"/>
+        <a href="/assets/images/dates/bichou.jpg">
+            <img class="contain" src="/assets/images/dates/bichou.jpg"/>
+        </a>
     </div>
     <div class="texte">
         <div>
@@ -51,22 +26,26 @@ title: "Prochaines dates"
 
 <div class="image-texte compact">
     <div class="image">
-        <img src="/assets/images/dates/bubbles.jpg"/>
+        <a href="/assets/images/dates/bubbles.jpg">
+            <img src="/assets/images/dates/bubbles.jpg"/>
+        </a>
     </div>
     <div class="texte">
         <div>
             <p>
                 <b>Date mystère</b><br/>
                <b>16 Octobre- 16h</b> <br/>
-              Pitêtre bien qu'on va faire un truc hihi
             </p>  
         </div>
     </div>
 </div>
 
+
 <div class="image-texte compact odd">
     <div class="image" style="background-color: #e62c17;">
-        <img class="contain" src="/assets/images/dates/hangar.png" style="background-color:#a1c8ff"/>
+        <a href="/assets/images/dates/hangar.png">
+            <img class="contain" src="/assets/images/dates/hangar.png" style="background-color:#a1c8ff"/>
+        </a>
     </div>
     <div class="texte">
         <div>
@@ -81,7 +60,25 @@ title: "Prochaines dates"
 
 <div class="image-texte compact">
     <div class="image" style="background-color: #e62c17;">
-        <img class="contain" src="/assets/images/dates/petit-cafe.jpeg"/>
+        <a href="/assets/images/dates/cambuse1.jpeg">
+            <img  src="/assets/images/dates/cambuse1.jpeg"/>
+        </a>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Date mystère</b><br/>
+               <b>5 Décembre</b> <br/>
+            </p>  
+        </div>
+    </div>
+</div>
+
+<div class="image-texte compact odd">
+    <div class="image" style="background-color: #e62c17;">
+        <a href="/assets/images/dates/petit-cafe.jpeg">
+            <img class="contain" src="/assets/images/dates/petit-cafe.jpeg"/>
+        </a>
     </div>
     <div class="texte">
         <div>
@@ -94,12 +91,82 @@ title: "Prochaines dates"
     </div>
 </div>
 
+<div class="image-texte compact">
+    <div class="image" style="background-color: #e62c17;">
+        <a href="/assets/images/dates/carnaval/carnaval5.jpg">
+            <img  src="/assets/images/dates/carnaval/carnaval5.jpg"/>
+        </a>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Teuf privée</b><br/>
+               <b>15 Mai</b> <br/>
+            </p>  
+        </div>
+    </div>
+</div>
+
+<div class="image-texte compact odd">
+    <div class="image" style="background-color: #e62c17;">
+        <a href="/assets/images/dates/carnaval/carnaval6.jpg">
+            <img src="/assets/images/dates/carnaval/carnaval6.jpg"/>
+        </a>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Date mystère</b><br/>
+               <b>16 Mai</b> <br/>
+            </p>  
+        </div>
+    </div>
+</div>
+
 
 ## Dates passées
 
+
+
+<div class="image-texte compact">
+    <div class="image">
+        <a href="/assets/images/dates/lamy-awards.jpg">
+        <img src="/assets/images/dates/lamy-awards.jpg" style="object-position: center -10vh;"/>
+        </a>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Teuf du siècle (privé)</b><br/>
+               <b>19 Septembre</b> <br/>
+               10 ans de mariages de mes meilleurs copaines. Avec le rêve fou de partager la scène avec Dïe Morg le temps d'une chanson, puis avec Thermidor le lendemain ! En plus le marié a pu faire un solo de machine à prouts.
+            </p>  
+        </div>
+    </div>
+</div>
+
+
+<div class="image-texte compact odd">
+    <div class="image">
+     <a href="/assets/images/dates/chu.jpg">
+        <img src="/assets/images/dates/chu.jpg"/>
+        </a>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>CHU - Oncologie pédiatrique (privé)</b><br/>
+               <b>14 Septembre</b> <br/>
+               Ma toute première date en hopital, j'en sors avec la conviction que c'est ma place. Les enfants avaient envie de rire, et les parents de pleurer. Je reviendrais vite !
+            </p>  
+        </div>
+    </div>
+</div>
 <div class="image-texte compact">
     <div class="image"  style="border: 1px solid grey;border: 1px solid grey">
+     <a href="/assets/images/dates/buissoniere_2.jpg">
         <img  src="/assets/images/dates/buissoniere_2.jpg"/>
+        </a>
     </div>
     <div class="texte">
         <div>
@@ -115,7 +182,9 @@ title: "Prochaines dates"
 
 <div class="image-texte compact odd">
     <div class="image">
+     <a href="/assets/images/dates/44840.jpeg">
         <img src="/assets/images/dates/44840.jpeg" style="object-position: center -30vh;"/>
+        </a>
     </div>
     <div class="texte">
         <div>
@@ -130,7 +199,9 @@ title: "Prochaines dates"
 
 <div class="image-texte compact">
     <div class="image" style="background-color: #e62c17;">
+     <a href="/assets/images/dates/airshow.jpg">
         <img src="/assets/images/dates/airshow.jpg"/>
+        </a>
     </div>
     <div class="texte">
         <div>
@@ -146,7 +217,9 @@ title: "Prochaines dates"
 
 <div class="image-texte compact odd">
     <div class="image" style="background-color: #e62c17;">
+     <a href="/assets/images/dates/sabliere.jpeg">
         <img src="/assets/images/dates/sabliere.jpeg" style="object-position: center -20vh;"/>
+        </a>
     </div>
     <div class="texte">
         <div>
@@ -162,7 +235,9 @@ title: "Prochaines dates"
 
 <div class="image-texte compact">
     <div class="image" style="border: 1px solid grey;">
+     <a href="/assets/images/dates/random.jpeg">
         <img src="/assets/images/dates/random.jpeg"   style="object-position: center -10vh;" />
+        </a>
     </div>
     <div class="texte">
         <div>
@@ -177,7 +252,9 @@ title: "Prochaines dates"
 
 <div class="image-texte compact odd">
     <div class="image" style="border: 1px solid grey;">
+     <a href="/assets/images/dates/leon2.jpg">
         <img src="/assets/images/dates/leon2.jpg"/>
+        </a>
     </div>
     <div class="texte">
         <div>
@@ -192,7 +269,9 @@ title: "Prochaines dates"
 
 <div class="image-texte compact">
     <div class="image" style="border-top: 1px solid grey;border-right: 1px solid grey">
+     <a href="/assets/images/dates/cambuse1.jpeg">
         <img  src="/assets/images/dates/cambuse1.jpeg"/>
+        </a>
     </div>
     <div class="texte">
         <div>
@@ -208,7 +287,9 @@ title: "Prochaines dates"
 
 <div class="image-texte compact odd">
     <div class="image">
+     <a href="/assets/images/dates/ronces.jpg">
         <img  src="/assets/images/dates/ronces.jpg"/>
+        </a>
     </div>
     <div class="texte">
         <div>
@@ -223,7 +304,9 @@ title: "Prochaines dates"
 
 <div class="image-texte compact">
     <div class="image" style="background-color: #f5f0ea" >
+     <a href="/assets/images/dates/java.jpeg">
         <img  style="object-position: center -25vh;"  src="/assets/images/dates/java.jpeg"/>
+        </a>
     </div>
     <div class="texte">
         <div>
@@ -238,7 +321,9 @@ title: "Prochaines dates"
 
 <div class="image-texte compact odd">
     <div class="image">
+     <a href="/assets/images/dates/bubbles.jpg">
         <img src="/assets/images/dates/bubbles.jpg"/>
+        </a>
     </div>
     <div class="texte">
         <div>
@@ -253,7 +338,9 @@ title: "Prochaines dates"
 
 <div class="image-texte compact">
     <div class="image">
+     <a href="/assets/images/dates/carnaval/carnaval2.jpg">
         <img src="/assets/images/dates/carnaval/carnaval2.jpg"/>
+        </a>
     </div>
     <div class="texte">
         <div>
@@ -269,7 +356,9 @@ title: "Prochaines dates"
 
 <div class="image-texte compact odd">
     <div class="image">
+     <a href="/assets/images/dates/libres.jpeg">
         <img src="/assets/images/dates/libres.jpeg"/>
+        </a>
     </div>
     <div class="texte">
         <div>

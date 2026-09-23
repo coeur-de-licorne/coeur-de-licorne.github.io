@@ -36,6 +36,12 @@ body {
 }
 
 .page {
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  .page__inner-wrap {
+    max-width: 1200px;
+  }
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
