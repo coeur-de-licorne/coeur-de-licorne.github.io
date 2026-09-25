@@ -76,8 +76,8 @@ title: "Prochaines dates"
 
 <div class="image-texte compact odd">
     <div class="image" style="background-color: #e62c17;">
-        <a href="/assets/images/dates/cambuse1.jpeg">
-            <img  src="/assets/images/dates/cambuse1.jpeg"/>
+        <a href="/assets/images/dates/carnaval/carnaval2.jpg">
+            <img  src="/assets/images/dates/carnaval/carnaval2.jpg"/>
         </a>
     </div>
     <div class="texte">
