@@ -100,7 +100,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Le Petit Café (Rezé)</b><br/>
-               <b>5 Mars 19h</b> <br/>
+               <b>5 Mars 2027 19h</b> <br/>
                 On y avait déjà joué en famille entre frères, le légendaire Petit Café de Rezé nous ouvre ses portes rock'n'roll licorne !
             </p>  
         </div>
@@ -117,7 +117,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Teuf privée</b><br/>
-               <b>15 Mai</b> <br/>
+               <b>15 Mai 2027</b> <br/>
             </p>  
         </div>
     </div>
@@ -133,7 +133,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Date mystère</b><br/>
-               <b>16 Mai</b> <br/>
+               <b>16 Mai 2027</b> <br/>
             </p>  
         </div>
     </div>
@@ -154,7 +154,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Teuf du siècle (privé)</b><br/>
-               <b>19 Septembre</b> <br/>
+               <b>19 Septembre 2026</b> <br/>
                10 ans de mariages de mes meilleurs copaines. Avec le rêve fou de partager la scène avec Dïe Morg le temps d'une chanson, puis avec Thermidor le lendemain ! En plus le marié a pu faire un solo de machine à prouts.
             </p>  
         </div>
@@ -172,7 +172,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>CHU - Oncologie pédiatrique (privé)</b><br/>
-               <b>14 Septembre</b> <br/>
+               <b>14 Septembre 2026</b> <br/>
                Ma toute première date en hopital, j'en sors avec la conviction que c'est ma place. Les enfants avaient envie de rire, et les parents de pleurer. Je reviendrais vite !
             </p>  
         </div>
@@ -188,7 +188,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Guinguette Buissonnière (Treillières)</b><br/>
-               <b>29 Août</b> <br/>
+               <b>29 Août 2026</b> <br/>
                La dernière fois que Papa Boudin y est allé il avait mis le feu avec le groupe de reprise La Bande FM !
                En plus c'était le tout dernier weekend des grandes vacances, une dernière teuf avant la rentrée !
             </p>  
@@ -206,7 +206,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Guinguette Festive des Sorinières</b><br/>
-               <b>16 Juillet</b> <br/>
+               <b>16 Juillet 2026</b> <br/>
                Bonheur de jouer à la maison !  En plus on a pu enchaîner avec notre ami Ja Ro pour un deuxième concert "pour grands".
             </p>  
         </div>
@@ -223,7 +223,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Live Air Show Radio</b><br/>
-               <b>7 Juillet 2026</b> <br/>
+               <b>7 Juillet 2026 2026</b> <br/>
               Notre première radio. On a pu parler du projet, de nos valeurs, et fait 2 chansons en live dispo sur Youtube. Un grand merci à Arno, Laurence et Gérald pour l'accueil. Vous pouvez écouter l'émission dans l'onglet "Presse" !
             </p>  
         </div>
@@ -241,7 +241,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>La Sablière (Sainte-Luce)</b><br/>
-               <b>3 Juillet 2026</b> <br/>
+               <b>3 Juillet 2026 2026</b> <br/>
                Maxi-teuf pour fêter le dernier jour d'école en bords de loire. Royal, on a enchaîné avec une boum et on a fait la chenille c'était n'importe quoi ! 
             </p>  
         </div>
