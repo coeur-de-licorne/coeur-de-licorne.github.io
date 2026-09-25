@@ -379,7 +379,8 @@ title: "Prochaines dates"
     <div class="texte">
         <div>
             <p>
-               <b>15 Mars 2026</b> Les Champs Libres
+            <b> Les Champs Libres</b><br/>
+               <b>15 Mars 2026</b> 
             </p>  
             <p>Tout premier concert, avec les copains...<br/>Beaucoup d'amour et de rire !</p>
         </div>
