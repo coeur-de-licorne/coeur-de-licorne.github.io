@@ -16,7 +16,7 @@ title: "Prochaines dates"
         <div>
             <p>
                <b>Halloween Party - Salle H. Derouet (Les Sorinières)</b><br/>
-               <b>16 Octobre- 18h</b> <br/>
+               <b>16 Octobre - 18h</b> <br/>
                 Une grosse teuf dans une grosse salle, avec DJ Set derrière ! Billets en vente sur Hello Asso.
             </p>  
         </div>
@@ -34,7 +34,7 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Hangar 24</b><br/>
-               <b>31 Octobre 16h</b> <br/>
+               <b>31 Octobre - 16h</b> <br/>
               Maxi teuf d'hallowen déguisée avant la chasse aux bonbons !
             </p>  
         </div>
@@ -51,8 +51,8 @@ title: "Prochaines dates"
     <div class="texte">
         <div>
             <p>
-                <b>Festival mystère</b><br/>
-               <b>5 Décembre</b> <br/>
+                <b>Festival mystère (Rezé)</b><br/>
+               <b>5 Décembre - 18h</b> <br/>
             </p>  
         </div>
     </div>
@@ -112,16 +112,16 @@ title: "Prochaines dates"
 
 <div class="image-texte compact odd">
     <div class="image">
-        <a href="/assets/images/dates/bichou.jpg">
-            <img class="contain" src="/assets/images/dates/barbichou.jpegg"/>
+        <a href="/assets/images/dates/barbichou.jpeg">
+            <img  src="/assets/images/dates/barbichou.jpeg"/>
         </a>
     </div>
     <div class="texte">
         <div>
             <p>
                 <b>Bar Bichou</b><br/>
-               <b>26 Septembre 206</b> <br/>
-               Oh là là qu'est-ce qu'on a eu chaud, on était serré comme des p'tites sardines ! Mais on a trop rigolé ! Et en plus, en deuxième partie de soirée j'ai pu partager la scène avec mon frère d'amour et son projet electro THERMIDOR !
+               <b>26 Septembre 2026</b> <br/>
+               Oh là là qu'est-ce qu'on a eu chaud, on était serrés comme des p'tites sardines ! Mais on a trop rigolé ! Et en plus, en deuxième partie de soirée j'ai pu partager la scène avec mon frère d'amour et son projet electro THERMIDOR !
             </p>  
         </div>
     </div>
