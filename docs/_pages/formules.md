@@ -66,11 +66,12 @@ N'hésitez pas à me contacter, je suis prêt à jouer gratuitement sans souci s
 **Installation**: prévoir deux heures balances comprise
 
 **Infos GUSO**
+
 LAGARDE ALEX (MOREL)
 20/06/1988 à Evreux
 Numéro Guso : 5179667230
 RIB : IBAN FR7614706001057394604798581 (BIC : AGRIFRPP847)
 
 **Infos Sacem**
-Toutes les chansons sont des compositions personnelles non déclarées à la Sacem mais ayant fait l'objet d'une demande SDRM pour pressage de notre album. 
-Excepté une reprise : Franz Ferdinand - Take me out
+
+Toutes les chansons sont des compositions personnelles déclarées à la SACEM

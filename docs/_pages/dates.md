@@ -6,25 +6,7 @@ title: "Prochaines dates"
 
 ## À venir
 
-
 <div class="image-texte compact odd">
-    <div class="image">
-        <a href="/assets/images/dates/bichou.jpg">
-            <img class="contain" src="/assets/images/dates/bichou.jpg"/>
-        </a>
-    </div>
-    <div class="texte">
-        <div>
-            <p>
-                <b>Bar Bichou</b><br/>
-               <b>26 Septembre - 18h</b> <br/>
-               Avec mon frère le grand l'incroyable Big Daddy !
-            </p>  
-        </div>
-    </div>
-</div>
-
-<div class="image-texte compact">
     <div class="image">
         <a href="/assets/images/dates/bubbles.jpg">
             <img src="/assets/images/dates/bubbles.jpg"/>
@@ -33,15 +15,16 @@ title: "Prochaines dates"
     <div class="texte">
         <div>
             <p>
-                <b>Date mystère</b><br/>
-               <b>16 Octobre- 16h</b> <br/>
+               <b>Halloween Party - Salle H. Derouet (Les Sorinières)</b><br/>
+               <b>16 Octobre- 18h</b> <br/>
+                Une grosse teuf dans une grosse salle, avec DJ Set derrière ! Billets en vente sur Hello Asso.
             </p>  
         </div>
     </div>
 </div>
 
 
-<div class="image-texte compact odd">
+<div class="image-texte compact">
     <div class="image" style="background-color: #e62c17;">
         <a href="/assets/images/dates/hangar.png">
             <img class="contain" src="/assets/images/dates/hangar.png" style="background-color:#a1c8ff"/>
@@ -58,21 +41,6 @@ title: "Prochaines dates"
     </div>
 </div>
 
-<div class="image-texte compact">
-    <div class="image" style="background-color: #e62c17;">
-        <a href="/assets/images/dates/cambuse1.jpeg">
-            <img  src="/assets/images/dates/cambuse1.jpeg"/>
-        </a>
-    </div>
-    <div class="texte">
-        <div>
-            <p>
-                <b>Date mystère</b><br/>
-               <b>14 Novembre</b> <br/>
-            </p>  
-        </div>
-    </div>
-</div>
 
 <div class="image-texte compact odd">
     <div class="image" style="background-color: #e62c17;">
@@ -83,7 +51,7 @@ title: "Prochaines dates"
     <div class="texte">
         <div>
             <p>
-                <b>Date mystère</b><br/>
+                <b>Festival mystère</b><br/>
                <b>5 Décembre</b> <br/>
             </p>  
         </div>
@@ -132,7 +100,7 @@ title: "Prochaines dates"
     <div class="texte">
         <div>
             <p>
-                <b>Date mystère</b><br/>
+                <b>Festival mystère</b><br/>
                <b>16 Mai 2027</b> <br/>
             </p>  
         </div>
@@ -142,7 +110,22 @@ title: "Prochaines dates"
 
 ## Dates passées
 
-
+<div class="image-texte compact odd">
+    <div class="image">
+        <a href="/assets/images/dates/bichou.jpg">
+            <img class="contain" src="/assets/images/dates/barbichou.jpegg"/>
+        </a>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Bar Bichou</b><br/>
+               <b>26 Septembre 206</b> <br/>
+               Oh là là qu'est-ce qu'on a eu chaud, on était serré comme des p'tites sardines ! Mais on a trop rigolé ! Et en plus, en deuxième partie de soirée j'ai pu partager la scène avec mon frère d'amour et son projet electro THERMIDOR !
+            </p>  
+        </div>
+    </div>
+</div>
 
 <div class="image-texte compact">
     <div class="image">
