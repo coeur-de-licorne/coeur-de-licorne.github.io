@@ -127,6 +127,7 @@ title: "Prochaines dates"
     </div>
 </div>
 
+<!--
 <div class="image-texte compact">
     <div class="image">
         <a href="/assets/images/dates/lamy-awards.jpg">
@@ -143,7 +144,7 @@ title: "Prochaines dates"
         </div>
     </div>
 </div>
-
+-->
 
 <div class="image-texte compact odd">
     <div class="image">
@@ -205,7 +206,7 @@ title: "Prochaines dates"
     <div class="texte">
         <div>
             <p>
-                <b>Live Air Show Radio</b><br/>
+                <b>Air Show Radio</b><br/>
                <b>7 Juillet 2026 2026</b> <br/>
               Notre première radio. On a pu parler du projet, de nos valeurs, et fait 2 chansons en live dispo sur Youtube. Un grand merci à Arno, Laurence et Gérald pour l'accueil. Vous pouvez écouter l'émission dans l'onglet "Presse" !
             </p>  
@@ -232,6 +233,7 @@ title: "Prochaines dates"
 </div>
 
 
+<!--
 <div class="image-texte compact">
     <div class="image" style="border: 1px solid grey;">
      <a href="/assets/images/dates/random.jpeg">
@@ -247,7 +249,7 @@ title: "Prochaines dates"
             </p>  
         </div>
     </div>
-</div>
+</div>-->
 
 <div class="image-texte compact odd">
     <div class="image" style="border: 1px solid grey;">
@@ -301,6 +303,7 @@ title: "Prochaines dates"
     </div>
 </div>
 
+<!--
 <div class="image-texte compact">
     <div class="image" style="background-color: #f5f0ea" >
      <a href="/assets/images/dates/java.jpeg">
@@ -334,7 +337,7 @@ title: "Prochaines dates"
         </div>
     </div>
 </div>
-
+-->
 <div class="image-texte compact">
     <div class="image">
      <a href="/assets/images/dates/carnaval/carnaval2.jpg">
@@ -353,6 +356,7 @@ title: "Prochaines dates"
     </div>
 </div>
 
+<!--
 <div class="image-texte compact odd">
     <div class="image">
      <a href="/assets/images/dates/libres.jpeg">
@@ -368,4 +372,4 @@ title: "Prochaines dates"
             <p>Tout premier concert, avec les copains...<br/>Beaucoup d'amour et de rire !</p>
         </div>
     </div>
-</div>
+</div>-->
