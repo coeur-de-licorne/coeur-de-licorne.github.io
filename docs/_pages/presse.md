@@ -4,6 +4,9 @@ permalink: /presse
 title: "Presse"
 ---
 
+## 13/10/2026 - ICI Radio
+
+<iframe src="https://embed.radiofrance.fr/francebleu/diffusion/1e59d6f6-e9e3-4125-9dd5-0666ae8a3691" width="100%" height="144" frameborder="0" allowfullscreen></iframe>
 
 ## 23/06/2026 - Ouest-France
 
