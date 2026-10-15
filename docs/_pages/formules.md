@@ -55,7 +55,7 @@ Public : De 5 à 77 ans
 
 Je pratique un tarif solidaire (gratuit pour ceux qui n'ont pas les moyens et partagent mes valeurs).
 
-N'hésitez pas à me contacter, je suis prêt à jouer gratuitement sans souci sous conditions et à imaginer toute forme de fête (boom, DJ Set, barbes à papa...). J'ai plusieurs contact avec des groupes "pour les grands" pour proposer une soirée avec concert enfant puis concert adulte festif.
+N'hésitez pas à me contacter, je suis prêt à jouer gratuitement sans souci sous conditions et à imaginer toute forme de fête (boum, DJ Set, barbes à papa...). J'ai plusieurs contact avec des groupes "pour les grands" pour proposer une soirée avec concert enfant puis concert adulte festif.
 
 
 ## Info pratiques
@@ -74,4 +74,4 @@ RIB : IBAN FR7614706001057394604798581 (BIC : AGRIFRPP847)
 
 **Infos Sacem**
 
-Toutes les chansons sont des compositions personnelles déclarées à la SACEM
+Toutes les chansons sont des compositions personnelles déclarées à la <a href="https://www.repertoire.sacem.fr/resultats?filters=parties&query=Coeur%20de%20licorne#searchBtn" target="sacem">SACEM</a>

@@ -59,14 +59,14 @@ title: "Prochaines dates"
 
 <div class="image-texte compact">
     <div class="image" style="background-color: #e62c17;">
-        <a href="/assets/images/dates/carnaval/carnaval2.jpg">
-            <img  src="/assets/images/dates/carnaval/carnaval2.jpg"/>
+        <a href="/assets/images/dates/noelfest.jpeg">
+            <img  src="/assets/images/dates/noelfest.jpeg">
         </a>
     </div>
     <div class="texte">
         <div>
             <p>
-                <b>Festival mystère (Rezé)</b><br/>
+                <b>Festilval Noëlfest (Rezé)</b><br/>
                <b>5 Décembre - 18h</b> <br/>
             </p>  
         </div>
@@ -98,7 +98,7 @@ title: "Prochaines dates"
     <div class="texte">
         <div>
             <p>
-                <b>Date mystère</b><br/>
+                <b>Ecole maternelle</b><br/>
                <b>18 Décembre</b> <br/>
             </p>  
         </div>
@@ -106,6 +106,24 @@ title: "Prochaines dates"
 </div>
 
 <div class="image-texte compact odd">
+    <div class="image" style="background-color: #f5f0ea" >
+     <a href="/assets/images/dates/java.jpeg">
+        <img  style="object-position: center -25vh;"  src="/assets/images/dates/java.jpeg"/>
+        </a>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>Le Bac à Sable (Le Pellerin)</b><br/>
+               <b>7 Février 2027 - 15h30</b> <br/>
+              Goûter festif annuel de ce multi-accueil aux valeurs proches des nôtres.
+              Grande boum derrière !
+            </p>  
+        </div>
+    </div>
+</div>
+
+<div class="image-texte compact">
     <div class="image" style="background-color: #e62c17;">
         <a href="/assets/images/dates/petit-cafe.jpeg">
             <img class="contain" src="/assets/images/dates/petit-cafe.jpeg"/>
