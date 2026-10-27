@@ -8,6 +8,8 @@ title: "Presse"
 
 <iframe src="https://embed.radiofrance.fr/francebleu/diffusion/1e59d6f6-e9e3-4125-9dd5-0666ae8a3691" width="100%" height="144" frameborder="0" allowfullscreen></iframe>
 
+<a href="https://www.ici.fr/pays-de-la-loire/loire-atlantique-44/les-sorinieres/aux-sorinieres-alex-morel-informaticien-se-transforme-en-papa-boudin-avec-ses-deux-enfants-5234145" target="_blank">Voir l'article consacré à l'émission </a>
+
 ## 23/06/2026 - Ouest-France
 
 <div style="width:100%;text-align:center;">

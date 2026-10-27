@@ -12,7 +12,7 @@ title: "Le groupe"
     <div class="texte">
     <div>
     <p>
-       Coeur de Licorne est un groupe familial composé de Papa Boudin et ses deux enfants, la Star et le professeur Prout. On a aussi Fleur St James qui nous filme et Fidel Castra qui nous aide à mixer les chansons.<br/> <br/>
+       Coeur de Licorne est un groupe familial composé de Papa Boudin et ses deux enfants, la Star et le professeur Prout. De temps en temps, y'a aussi Robospierre (notre tonton) qui vient jouer de la basse.<br/> <br/>
        Y'a un secret derrière le nom du groupe, mais faut venir aux concerts pour le découvrir ! On veut pousser les enfants à se rebeller contre l'oppression parentale, au moins le temps d'un concert, grâce au pouvoir du Roquénerol. 
     </p>
     </div>
@@ -41,7 +41,7 @@ title: "Le groupe"
     <div class="texte"><div>
     <p>
      <b>En concert</b> c'est un peu n'importe quoi. La moitié du temps la Star vient même pas (elle ne se déplace que pour les Zeniths), du coup Papa Boudin a embauché Patoufette, une marionnette éfrontée qui pionce la moitié du temps. <br/> <br/>
-     Heureusement le professeur Prout nous sauve la mise avec sa démonstration de la Fart Machine, le fruit de longues années de recherches présentées en exclusivité mondiale.
+     Heureusement notre machine à prouts nous sauve toujours la mise ! Le fruit de longues années de recherches présentées en exclusivité mondiale.
     </p></div>
     </div>
     
@@ -54,8 +54,8 @@ title: "Le groupe"
     <div class="texte">
       <div>
           <p>
-          <b>Pourquoi on fait ça ?</b> Déjà parce qu'on adore faire des blagues nulles en famille. Et aussi parce que tout autour de nous on voit plein d'enfants qu'on force à faire plein de trucs, et qu'on n'écoute pas beaucoup. <br/> <br/>
-          On aimerait bien qu'un jour on considère les enfants comme un classe sociale à part entière, et qu'on arrête de leur interdire l'accès à l'espace public ou à leurs droits fondamentaux.
+          <b>Pourquoi on fait ça ?</b> Déjà parce qu'on adore faire du rock et des blagues nulles en famille. Et aussi parce qu'autour de nous on voit plein d'enfants qu'on force à obéir et qu'on n'écoute pas beaucoup. <br/> <br/>
+          On aimerait bien qu'un jour on considère les enfants comme un classe sociale à part entière, et qu'on arrête de leur interdire l'accès à l'espace public ou à leurs droits fondamentaux. Si le sujet vous intéresse, vous pouvez lire le super bouquin de Claire Bourdille ou aller discuter avec le <a href="https://collectifenfantiste.fr/le-mouvement-enfantiste/">mouvement enfantiste</a> !
           </p>
       </div>
     </div>

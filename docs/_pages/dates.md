@@ -6,23 +6,6 @@ title: "Prochaines dates"
 
 ## À venir
 
-<div class="image-texte compact odd">
-    <div class="image">
-        <a href="/assets/images/dates/bubbles.jpg">
-            <img src="/assets/images/dates/bubbles.jpg"/>
-        </a>
-    </div>
-    <div class="texte">
-        <div>
-            <p>
-               <b>Halloween Party - Salle H. Derouet (Les Sorinières)</b><br/>
-               <b>16 Octobre - 18h</b> <br/>
-                Une grosse teuf dans une grosse salle, avec DJ Set derrière ! Billets en vente sur Hello Asso.
-            </p>  
-        </div>
-    </div>
-</div>
-
 
 <div class="image-texte compact">
     <div class="image" style="background-color: #e62c17;">
@@ -52,6 +35,7 @@ title: "Prochaines dates"
             <p>
                 <b>Tap Boum - Aerofab</b><br/>
                <b>29 Novembre - 15h</b> <br/>
+               Un concert suivi d'un DJ Set spécial boum, on fait même péter la machine à barbe à papa ! 
             </p>  
         </div>
     </div>
@@ -67,7 +51,8 @@ title: "Prochaines dates"
         <div>
             <p>
                 <b>Festilval Noëlfest (Rezé)</b><br/>
-               <b>5 Décembre - 18h</b> <br/>
+               <b>5 Décembre - 17h</b> <br/>
+               5 groupes de rock qui vont se suivre pendant ce p'tit festoche organisé par l'ALOD ! 
             </p>  
         </div>
     </div>
@@ -82,7 +67,7 @@ title: "Prochaines dates"
     <div class="texte">
         <div>
             <p>
-                <b>Date mystère (Nantes)</b><br/>
+                <b>Fête de Noël du Clos Taureau</b><br/>
                <b>11 Décembre - 18h</b> <br/>
             </p>  
         </div>
@@ -91,8 +76,8 @@ title: "Prochaines dates"
 
 <div class="image-texte compact">
     <div class="image" style="background-color: #e62c17;">
-        <a href="/assets/images/dates/random.jpeg">
-        <img src="/assets/images/dates/random.jpeg"   style="object-position: center -10vh;" />
+        <a href="/assets/images/dates/barbichou.jpg">
+        <img src="/assets/images/dates/barbichou.jpg"   style="object-position: center -10vh;" />
         </a>
     </div>
     <div class="texte">
@@ -107,8 +92,8 @@ title: "Prochaines dates"
 
 <div class="image-texte compact odd">
     <div class="image" style="background-color: #f5f0ea" >
-     <a href="/assets/images/dates/java.jpeg">
-        <img  style="object-position: center -25vh;"  src="/assets/images/dates/java.jpeg"/>
+     <a href="/assets/images/dates/carnaval/carnaval6.jpg">
+        <img    src="/assets/images/dates/carnaval/carnaval6.jpg"/>
         </a>
     </div>
     <div class="texte">
@@ -175,7 +160,41 @@ title: "Prochaines dates"
 
 ## Dates passées
 
+<div class="image-texte compact odd">
+    <div class="image">
+        <a href="/assets/images/dates/hallosor.jpg">
+            <img src="/assets/images/dates/hallosor.jpg"/>
+        </a>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+               <b>Halloween Party - Salle H. Derouet (Les Sorinières)</b><br/>
+               <b>16 Octobre 2026</b> <br/>
+                Une grosse teuf dans une grosse salle, avec DJ Set derrière ! Notre première "vraie" scène avec des lumières étou étou !
+            </p>  
+        </div>
+    </div>
+</div>
 <div class="image-texte compact">
+    <div class="image">
+        <a href="/assets/images/dates/ici.jpg">
+            <img  src="/assets/images/dates/ici.jpg"/>
+        </a>
+    </div>
+    <div class="texte">
+        <div>
+            <p>
+                <b>ICI Loire Atlantique (France Bleu)</b><br/>
+               <b>30 Septembre 2026</b> <br/>
+               La star était chez elle dans les locaux, Cathy était trop sympa on a eu le droit à la visite de tous les locaux ! Super moment.
+               <a href="https://www.ici.fr/pays-de-la-loire/loire-atlantique-44/les-sorinieres/aux-sorinieres-alex-morel-informaticien-se-transforme-en-papa-boudin-avec-ses-deux-enfants-5234145" target="_blank">Voir l'article et écouter l'émission</a>
+            </p>  
+        </div>
+    </div>
+</div>
+
+<div class="image-texte compact odd">
     <div class="image">
         <a href="/assets/images/dates/barbichou.jpeg">
             <img  src="/assets/images/dates/barbichou.jpeg"/>
@@ -192,7 +211,6 @@ title: "Prochaines dates"
     </div>
 </div>
 
-<!--
 <div class="image-texte compact">
     <div class="image">
         <a href="/assets/images/dates/lamy-awards.jpg">
@@ -209,7 +227,6 @@ title: "Prochaines dates"
         </div>
     </div>
 </div>
--->
 
 <div class="image-texte compact odd">
     <div class="image">
@@ -298,11 +315,10 @@ title: "Prochaines dates"
 </div>
 
 
-<!--
 <div class="image-texte compact">
     <div class="image" style="border: 1px solid grey;">
-     <a href="/assets/images/dates/random.jpeg">
-        <img src="/assets/images/dates/random.jpeg"   style="object-position: center -10vh;" />
+     <a href="/assets/images/dates/barbichou.jpg">
+        <img src="/assets/images/dates/barbichou.jpg"   />
         </a>
     </div>
     <div class="texte">
@@ -314,7 +330,7 @@ title: "Prochaines dates"
             </p>  
         </div>
     </div>
-</div>-->
+</div>
 
 <div class="image-texte compact odd">
     <div class="image" style="border: 1px solid grey;">
@@ -368,7 +384,6 @@ title: "Prochaines dates"
     </div>
 </div>
 
-<!--
 <div class="image-texte compact">
     <div class="image" style="background-color: #f5f0ea" >
      <a href="/assets/images/dates/java.jpeg">
@@ -402,7 +417,7 @@ title: "Prochaines dates"
         </div>
     </div>
 </div>
--->
+
 <div class="image-texte compact">
     <div class="image">
      <a href="/assets/images/dates/carnaval/carnaval2.jpg">
@@ -421,7 +436,6 @@ title: "Prochaines dates"
     </div>
 </div>
 
-<!--
 <div class="image-texte compact odd">
     <div class="image">
      <a href="/assets/images/dates/libres.jpeg">
@@ -437,4 +451,4 @@ title: "Prochaines dates"
             <p>Tout premier concert, avec les copains...<br/>Beaucoup d'amour et de rire !</p>
         </div>
     </div>
-</div>-->
+</div>
